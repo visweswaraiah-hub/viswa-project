@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css files/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="container">
+ <!--starting of header-->
+  <header>
+  <img src="my_image.jpg" class="profile">
+  <div class="bio">
+      <h1> visweswaraiah</h1>
+       <h3>WEB DESIGNER</h3>
+  </div>
+  <div class="contact">
+      <p><a href="mailto:visweswarayya987@gmail.com">EMAIL: visweswarayya987@gmail.com</a></p>
+      <p><address>author: visweswaraiah</address></p>
+
+  </div>
+  </header>
+  <div class="clear"></div>
+  <hr>
+  <!--end of header part-->
+
+ <!--main section start-->
+  <main>
+      <section id="personalsection"><!--start of personal info-->
+         <div class="content">
+             <div class="left">
+                  <h1>personal information</h1>
+             </div>
+             <div class="right">
+      <p>Hello , my name is visweswaraiah padigeri  I am from Anantapure in India.<br>
+       My father chowdappa is a weaver. My mother lakshmni devi is a house wife. I am a complete MBA  student .<br>I completed my schooling from st mary's english high school in my home town Dharmavaram .
+       MY favourite subject is finances. Recently i am started learning web development thats a little-bit information about me.Thank you.  </p>
+             </div>
+         </div>
+      </section><!--end of personal info-->
+      <div class="clear"></div>
+      <hr class="common-hr">
+      <section id="personalsection"><!--start of work-experience info-->
+        <div class="content">
+            <div class="left">
+                 <h1>work-experience</h1>
+            </div>
+            <div class="right">
+     <p> I am in mba student my specilization subject finances and hr . <br>But i am interested hr and market also so i recently started web development but i have not any work experience this is my first project.<br>
+      and I do this projects by <abbr title="HYPER TEXT MARKUP LANGUAGE">HTML</abbr> and by <abbr title="CASCADING STYLE SHEET">CSS</abbr>.<br> I do not use any java script here.<br> I have complete MBA learning teachinng experience .i ideal is development business <abbr title="computer, finances hr and market">science subjects.</abbr></p>
+            </div>
+        </div>
+     </section><!--end of work-experience info-->
+     <div class="clear"></div>
+     <hr class="common-hr">
+     <section id="personalsection"><!--start of education info-->
+        <div class="content">
+            <div class="left">
+                 <h1>Education</h1>
+            </div>
+            <div class="right">
+                <h2>MBA year :2019-2021</h2>
+                <h3>  degree year :2017-2019</h3>
+                <h4>school passout:2014</h4>
+     <p> I am in mba student . <br>But i am interested in computer application degree branch also so i recently started web development but i have not any work experience. this is my second  project.<br>
+      and I do this projects by <abbr title="HYPER TEXT MARKUP LANGUAGE">HTML</abbr> and by <abbr title="CASCADING STYLE SHEET">CSS</abbr>.<br> I do not use any java script here.<br> I have learning in degree course final year . <abbr title="finaces hr accounting and marketing computer ">science subjects.</abbr>
+    and recently I also completed <abbr title="C PROGRAMMING"> C </abbr>and <abbr title="html PROGRAM">html</abbr>.   It takes me complete final year but I am ok with it. I was also from non IT so it was not an
+    very difficult learning task for me. </p>
+            </div>
+        </div>
+     </section><!--end of education info-->
+     <div class="clear"></div>
+     <hr class="common-hr">
+     <section id="personalsection"><!--start of SKILL info-->
+        <div class="content">
+            <div class="left">
+                 <h1>SKILLS</h1>
+            </div>
+            <div class="right">
+                <h2>mba year :2019- 2021</h2>
+                <h3>degree year :2017-2019</h3>
+                <h4>school passout:2014</h4>
+     <p> I am in mba student . <br>But i am interested in computer application degree  branch also so i recently started web development but i have not any work experience. this is my second project.<br>
+      and I do this projects by <abbr title="HYPER TEXT MARKUP LANGUAGE">HTML</abbr> and by <abbr title="CASCADING STYLE SHEET">CSS</abbr>.<br> I do not use any java script here.<br> I have 2 years teachinng experience .i tought all <abbr title="MATH,PHYSICS,CHEMISTRY">science subjects.</abbr>
+    and recently I also completed <abbr title="C PROGRAMMING"> C </abbr>and <abbr title="html PROGRAM">html</abbr>.   It takes me complete final year but I am ok with it. I was also from non IT background so it was no an 
+    very difficult learning task for me.
+    <ol type="A">
+    <b><li>programming languages:c, html </li>
+    <li>basic word ,excel, powerpoint</li>
+    <li>html,css,js</li></b>
+    </ol>
+</p>
+            </div>
+        </div>
+     </section><!--end of SKILL info-->
+     <div class="clear"></div>
+     <hr class="common-hr">
+     <section id="personalsection"><!--start of rewards info-->
+        <div class="content">
+            <div class="left">
+                 <h1>Rewards</h1>
+                 chess getting medal 
+            </div>
+            <div class="right">
+                <h2>degree :2017-2019</h2>
+                <h3>MBA year :2019-2021</h3>
+                <h4>school passout:2019</h4>
+                <p> I am in mba student . <br>But i am interested in computer application degree  branch also so i recently started web development but i have not any work experience. this is my second project.<br>
+                    and I do this projects by <abbr title="HYPER TEXT MARKUP LANGUAGE">HTML</abbr> and by <abbr title="CASCADING STYLE SHEET">CSS</abbr>.<br> I do not use any java script here.<br> I have 2 years teachinng experience .i tought all <abbr title="MATH,PHYSICS,CHEMISTRY">science subjects.</abbr>
+                  and recently I also completed <abbr title="C PROGRAMMING"> C </abbr>and <abbr title="html PROGRAM">html</abbr>.   It takes me complete final year but I am ok with it. I was also from non IT background so it was no an 
+                  very difficult learning task for me. 
+    </p>
+            </div>
+        </div>
+     </section><!--end of rewards info-->
+     
+  </main>
+  <!--main section end-->
+  <div class="clear"></div>
+     <hr class="common-hr">
+  <!--footer start-->
+  <footer class="bottom-container">
+    <a href="mailto:visweswarayya987@gmail.com">EMAIL :visweswarayya987@</a>
+        <p>copyright &copy;visweswarayya padigeri 2022</p>
+  </footer> 
+  <!--footer end-->
+</div> 
+</body>
+</html>
